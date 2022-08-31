@@ -1,0 +1,3 @@
+- seteleh install eslint (npm install eslint --save-dev)
+- inisiasi eslint dengan perintah (npx eslint --init)
+- jawab untuk menginisiasi eslint dan configuration file
